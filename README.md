@@ -1,8 +1,20 @@
-# Jawaban No 1 = Mata Pelajaran Fisika 
-# Jawaban No 2 = Mata Pelajaran Bahasa Indonesia
-# Jawaban No 3 = Dengan Visualisasi kita lebih memudahkan dalam memahami perbandingan nilai antar mata pelajaran.
+📸 Output Visualisasi
+![Grafik Rata-Rata Nilai](Figure_1.png)
+![Boxplot Sebaran Nilai](output1.png)
 
-# Refleksi: 
-#  Jawaban No 1 = Saya belajar bagaimana menerapkan teknik analisis data menggunakan Python untuk mengolah data nyata
-#  Jawaban No 2 = Kesulitan dalam bagaimana memahami cara kerja fungsi dalam membuat grafik
-#  Jawaban No 3 = Ai yang paling membantu dalam analysis data adalah ChatGPT dan Deepseek karena meemberikan penjelasan yang mudah dipahami
+
+📝 Jawaban Tugas
+
+No 1: Mata Pelajaran Fisika
+
+No 2: Mata Pelajaran Bahasa Indonesia
+
+No 3: Visualisasi membantu memahami perbandingan nilai antar mata pelajaran dengan lebih mudah.
+
+💭 Refleksi
+
+No 1: Saya belajar bagaimana menerapkan teknik analisis data menggunakan Python untuk mengolah data nyata.
+
+No 2: Kesulitan saya berada pada memahami cara kerja fungsi dalam membuat grafik.
+
+No 3: AI yang paling membantu dalam analisis data adalah ChatGPT dan DeepSeek karena memberikan penjelasan yang mudah dipahami.
