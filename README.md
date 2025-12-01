@@ -1,9 +1,12 @@
 📸 Output Visualisasi
 
 
+![Grafik Rata-Rata Nilai](Figure_1.png) 
 
 
-![Grafik Rata-Rata Nilai](Figure_1.png)     ![Boxplot Sebaran Nilai](output1.png)
+
+
+![Boxplot Sebaran Nilai](output1.png)
 
 
 📝 Jawaban Tugas
